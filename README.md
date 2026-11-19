@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/guptanalin) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nalin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:01nalingupta@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/guptanalin) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nalin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:01nalingupta@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
